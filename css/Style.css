@@ -25,6 +25,9 @@ outline: 0;
     opacity: 0;
     margin-left: 0%;
 }
+a {
+  color: #FFFFFF;
+}
 .fleche {
   transition: 0.8s;
   position: absolute;
