@@ -61,19 +61,20 @@ color: #FFFFFF;
 }
 .creator {
 
-position: absolute;
-width: 394px;
-height: 52px;
-left: 238px;
-top: 419px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 900;
-font-size: 24px;
-line-height: 36px;
-
-color: #FFFFFF;
+    position: absolute;
+    width: 603px;
+    height: 52px;
+    left: 166px;
+    top: 419px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 36px;
+    
+    color: #FFFFFF;
+    
 }
 
 .playbouton {
@@ -265,7 +266,7 @@ text-align: center;
 color: #000000;
 }
 #dark {
-    background-color: #0a0a0a;
+    background-color: #F7F7F7;
 }
 .portalicon {
     position: absolute;
@@ -318,4 +319,175 @@ line-height: 60px;
 text-align: center;
 
 color: #000000;
+}
+.garryimg {
+    position: absolute;
+width: 735px;
+height: 409px;
+left: 163px;
+top: 1183px;
+}
+.garrytitle {
+    position: absolute;
+width: 643px;
+height: 63px;
+left: 1064px;
+top: 1244px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 72px;
+
+color: #000000;
+}
+.garrytext {
+    position: absolute;
+width: 588px;
+height: 276px;
+left: 1100px;
+top: 1326px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 36px;
+
+color: #151515;
+
+}
+.minecrafttitle {
+    position: absolute;
+width: 643px;
+height: 63px;
+left: 146px;
+top: 1805px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 72px;
+
+color: #000000;
+
+}
+.minecrafttext {
+    position: absolute;
+width: 588px;
+height: 276px;
+left: 187px;
+top: 1910px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 36px;
+
+color: #151515;
+
+}
+.minecraftimg {
+    
+position: absolute;
+width: 735px;
+height: 409px;
+left: 972px;
+top: 1767px;
+}
+.actmcontami {
+    position: absolute;
+width: 531px;
+height: 71px;
+left: 214px;
+top: 236px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+}
+.actgmodontami {
+    position: absolute;
+width: 531px;
+height: 71px;
+left: 214px;
+top: 890px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+}
+.div4 {
+    transition: 0.5s ;
+    position: absolute;
+width: 377px;
+height: 474px;
+left: 762px;
+top: 972px;
+
+background: rgba(255, 255, 255, 0.1);
+box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2px);
+
+
+border-radius: 8px;
+}
+.div4:hover {
+    transition: 0.5s ;
+    position: absolute;
+width: 377px;
+height: 474px;
+left: 762px;
+top: 962px;
+
+background: rgba(255, 255, 255, 0.1);
+box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2px);
+
+
+border-radius: 8px;
+}
+.fondendpage {
+    position: absolute;
+width: 1px;
+height: 1px;
+left: 0px;
+top: 1950px;
+
+background: #FFFFFF;
+}
+.serveurgarry {
+    position: absolute;
+width: 377px;
+height: 64px;
+left: 0px;
+top: 384px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 60px;
+text-align: center;
+
+color: #000000;
+}
+.serveurgarryimg {
+    position: absolute;
+width: 300px;
+height: 300px;
+left: 38px;
+top: 49px;
 }
